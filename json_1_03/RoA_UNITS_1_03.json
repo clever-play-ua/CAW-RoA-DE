@@ -1,12 +1,4 @@
 {
-  "N/A": {
-    "enUS": "N/A",
-    "deDE": "N/A"
-  },
-  "SYS": {
-    "enUS": "SYSTEM",
-    "deDE": "SYSTEM"
-  },
   "AFA": {
     "enUS": "Alonsus Faol",
     "deDE": "Alonsus Faol"
@@ -158,6 +150,10 @@
   "RET": {
     "enUS": "Retera",
     "deDE": "Retera"
+  },
+  "SYS": {
+    "enUS": "SYSTEM",
+    "deDE": "SYSTEM"
   },
   "TGO": {
     "enUS": "Teron Gorefiend",
