@@ -1,0 +1,933 @@
+{
+  "RoA_GLOBAL_BUILDINGS_001": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ogre Mound",
+    "deDE": "Ogerhügel"
+  },
+  "RoA_GLOBAL_BUILDINGS_002": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ogre Mound",
+    "deDE": "Ogerhügel"
+  },
+  "RoA_GLOBAL_BUILDINGS_003": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Pig Farm",
+    "deDE": "Schweinefarm"
+  },
+  "RoA_GLOBAL_BUILDINGS_004": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Oil Refinery",
+    "deDE": "Ölraffinerie"
+  },
+  "RoA_GLOBAL_BUILDINGS_005": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ogre Juggernaut",
+    "deDE": "Oger-Juggernaut"
+  },
+  "RoA_GLOBAL_BUILDINGS_006": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Troll Lumber Mill",
+    "deDE": "Troll-Sägewerk"
+  },
+  "RoA_GLOBAL_BUILDINGS_007": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Troll Lumber Mill",
+    "deDE": "Troll-Sägewerk"
+  },
+  "RoA_GLOBAL_BUILDINGS_008": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Guard Tower",
+    "deDE": "Wachturm"
+  },
+  "RoA_GLOBAL_BUILDINGS_009": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Elven Lumber Mill",
+    "deDE": "Elfisches Sägewerk"
+  },
+  "RoA_GLOBAL_BUILDINGS_010": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Build Elven Lumber Mill",
+    "deDE": "Elfisches Sägewerk errichten"
+  },
+  "RoA_GLOBAL_BUILDINGS_015": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Tavern",
+    "deDE": "Taverne"
+  },
+  "RoA_GLOBAL_BUILDINGS_016": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Vase",
+    "deDE": "Vase"
+  },
+  "RoA_GLOBAL_BUILDINGS_017": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Vase",
+    "deDE": "Vase"
+  },
+  "RoA_GLOBAL_BUILDINGS_018": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Vase",
+    "deDE": "Vase"
+  },
+  "RoA_GLOBAL_BUILDINGS_019": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Armor Suit",
+    "deDE": "Rüstung"
+  },
+  "RoA_GLOBAL_BUILDINGS_020": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Chest",
+    "deDE": "Truhe"
+  },
+  "RoA_GLOBAL_BUILDINGS_021": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Chest",
+    "deDE": "Truhe"
+  },
+  "RoA_GLOBAL_BUILDINGS_022": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "House Ruins",
+    "deDE": "Hausruine"
+  },
+  "RoA_GLOBAL_BUILDINGS_023": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "City Clock Tower",
+    "deDE": "Uhrturm der Stadt"
+  },
+  "RoA_GLOBAL_BUILDINGS_024": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Knight Statue",
+    "deDE": "Ritterstatue"
+  },
+  "RoA_GLOBAL_BUILDINGS_025": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Knight Statue",
+    "deDE": "Ritterstatue"
+  },
+  "RoA_GLOBAL_BUILDINGS_026": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Food Supplies",
+    "deDE": "Nahrungsvorräte"
+  },
+  "RoA_GLOBAL_BUILDINGS_027": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Oil Patch",
+    "deDE": "Ölquelle"
+  },
+  "RoA_GLOBAL_HEROES_ALO_001": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sir Anduin Lothar",
+    "deDE": "Sir Anduin Lothar"
+  },
+  "RoA_GLOBAL_HEROES_ALO_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sir Anduin Lothar",
+    "deDE": "Sir Anduin Lothar"
+  },
+  "RoA_GLOBAL_HEROES_ALO_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sir Anduin Lothar",
+    "deDE": "Sir Anduin Lothar"
+  },
+  "RoA_GLOBAL_HEROES_ALO_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sir Anduin Lothar",
+    "deDE": "Sir Anduin Lothar"
+  },
+  "RoA_GLOBAL_HEROES_DPR_001": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Derek Proudmoore",
+    "deDE": "Derek Prachtmeer"
+  },
+  "RoA_GLOBAL_HEROES_DPR_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Captain",
+    "deDE": "Kapitän"
+  },
+  "RoA_GLOBAL_HEROES_DPR_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Captain",
+    "deDE": "Kapitän"
+  },
+  "RoA_GLOBAL_HEROES_DPR_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Captain",
+    "deDE": "Kapitän"
+  },
+  "RoA_GLOBAL_HEROES_DTR_001": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Danath Trollbane",
+    "deDE": "Danath Trollbann"
+  },
+  "RoA_GLOBAL_HEROES_DTR_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Danath Trollbane",
+    "deDE": "Danath Trollbann"
+  },
+  "RoA_GLOBAL_HEROES_DTR_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Captain",
+    "deDE": "Hauptmann"
+  },
+  "RoA_GLOBAL_HEROES_DTR_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Revive Captain",
+    "deDE": "Hauptmann wiederbeleben"
+  },
+  "RoA_GLOBAL_HEROES_DTR_005": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Revive Captain",
+    "deDE": "Hauptmann wiederbeleben"
+  },
+  "RoA_GLOBAL_HEROES_KAS_001": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Kurdran and Sky'ree",
+    "deDE": "Kurdran und Sky'ree"
+  },
+  "RoA_GLOBAL_HEROES_KAS_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Kurdran and Sky'ree",
+    "deDE": "Kurdran und Sky'ree"
+  },
+  "RoA_GLOBAL_HEROES_KAS_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Kurdran and Sky'ree",
+    "deDE": "Kurdran und Sky'ree"
+  },
+  "RoA_GLOBAL_HEROES_KAS_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Kurdran and Sky'ree",
+    "deDE": "Kurdran und Sky'ree"
+  },
+  "RoA_GLOBAL_HEROES_KAS_005": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Kurdran and Sky'ree",
+    "deDE": "Kurdran und Sky'ree"
+  },
+  "RoA_GLOBAL_HEROES_KAS_006": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Kurdran and Sky'ree",
+    "deDE": "Kurdran und Sky'ree"
+  },
+  "RoA_GLOBAL_HEROES_KAS_007": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Thane",
+    "deDE": "Hochthan"
+  },
+  "RoA_GLOBAL_HEROES_KAS_008": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Thane",
+    "deDE": "Hochthan"
+  },
+  "RoA_GLOBAL_HEROES_KAS_009": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Thane",
+    "deDE": "Hochthan"
+  },
+  "RoA_GLOBAL_HEROES_KAS_010": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Thane",
+    "deDE": "Hochthan"
+  },
+  "RoA_GLOBAL_HEROES_KAS_011": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Thane",
+    "deDE": "Hochthan"
+  },
+  "RoA_GLOBAL_HEROES_KHA_001": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Khadgar",
+    "deDE": "Khadgar"
+  },
+  "RoA_GLOBAL_HEROES_KHA_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Khadgar",
+    "deDE": "Khadgar"
+  },
+  "RoA_GLOBAL_HEROES_KHA_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Khadgar",
+    "deDE": "Khadgar"
+  },
+  "RoA_GLOBAL_HEROES_KHA_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Archmage",
+    "deDE": "Erzmagier"
+  },
+  "RoA_GLOBAL_HEROES_KHA_005": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Revive Archmage",
+    "deDE": "Erzmagier wiederbeleben"
+  },
+  "RoA_GLOBAL_HEROES_KHA_006": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Revive Archmage",
+    "deDE": "Erzmagier wiederbeleben"
+  },
+  "RoA_GLOBAL_HEROES_MTS_001": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan the Scribe",
+    "deDE": "Milan der Schreiber"
+  },
+  "RoA_GLOBAL_HEROES_MTS_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan the Scribe",
+    "deDE": "Milan der Schreiber"
+  },
+  "RoA_GLOBAL_HEROES_MTS_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Revive Chronicler",
+    "deDE": "Chronisten wiederbeleben"
+  },
+  "RoA_GLOBAL_HEROES_MTS_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Revive Chronicler",
+    "deDE": "Chronisten wiederbeleben"
+  },
+  "RoA_GLOBAL_HEROES_RET_001": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Retera",
+    "deDE": "Retera"
+  },
+  "RoA_GLOBAL_HEROES_RET_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Professor",
+    "deDE": "Professor"
+  },
+  "RoA_GLOBAL_HEROES_RET_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Revive Professor",
+    "deDE": "Professor wiederbeleben"
+  },
+  "RoA_GLOBAL_HEROES_RET_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Revive Professor",
+    "deDE": "Professor wiederbeleben"
+  },
+  "RoA_GLOBAL_HEROES_TME_001": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Terenas Menethil II",
+    "deDE": "Terenas Menethil II."
+  },
+  "RoA_GLOBAL_HEROES_TME_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Monarch",
+    "deDE": "Monarch"
+  },
+  "RoA_GLOBAL_HEROES_TME_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Monarch",
+    "deDE": "Monarch"
+  },
+  "RoA_GLOBAL_HEROES_TME_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Monarch",
+    "deDE": "Monarch"
+  },
+  "RoA_GLOBAL_HEROES_TUR_001": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Turalyon",
+    "deDE": "Turalyon"
+  },
+  "RoA_GLOBAL_HEROES_TUR_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Turalyon",
+    "deDE": "Turalyon"
+  },
+  "RoA_GLOBAL_HEROES_TUR_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Paladin of Protection",
+    "deDE": "Paladin des Schutzes"
+  },
+  "RoA_GLOBAL_HEROES_TUR_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Paladin of Protection",
+    "deDE": "Paladin des Schutzes"
+  },
+  "RoA_GLOBAL_HEROES_UTL_001": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Uther",
+    "deDE": "Uther"
+  },
+  "RoA_GLOBAL_HEROES_UTL_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lord Paladin",
+    "deDE": "Lord-Paladin"
+  },
+  "RoA_GLOBAL_HEROES_UTL_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lord Paladin",
+    "deDE": "Lord-Paladin"
+  },
+  "RoA_GLOBAL_HEROES_UTL_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lord Paladin",
+    "deDE": "Lord-Paladin"
+  },
+  "RoA_GLOBAL_HEROES_WIL_001": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Wilhelm",
+    "deDE": "Wilhelm"
+  },
+  "RoA_GLOBAL_HEROES_WIL_021": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Gavinrad the Dire",
+    "deDE": "Gavinrad der Grimmige"
+  },
+  "RoA_GLOBAL_MENU_001": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Rise of the Alliance",
+    "deDE": "Rise of the Alliance 1.03 DE 0.1"
+  },
+  "RoA_GLOBAL_MENU_002": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sir Lothar, in charge of the scattered armies of Azeroth since the death of King Llane, has led his people across the Great Sea to the shores of Lordaeron.",
+    "deDE": "Sir Lothar, der seit dem Tod von König Llane die versprengten Armeen Azeroths befehligt, hat sein Volk über das Große Meer an die Küsten von Lordaeron geführt.\n\n(GERMAN AI TRANSLATION V.0.1)"
+  },
+  "RoA_GLOBAL_MENU_003": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Varies",
+    "deDE": "Variiert"
+  },
+  "RoA_GLOBAL_MENU_004": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Cinematic Act I",
+    "deDE": "Erster Akt"
+  },
+  "RoA_GLOBAL_MENU_005": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lordaeron",
+    "deDE": "Lordaeron"
+  },
+  "RoA_GLOBAL_MENU_006": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Chapter One",
+    "deDE": "Kapitel eins"
+  },
+  "RoA_GLOBAL_MENU_007": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Battle for Lordaeron",
+    "deDE": "Die Schlacht um Lordaeron"
+  },
+  "RoA_GLOBAL_MENU_008": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Chapter Two",
+    "deDE": "Kapitel zwei"
+  },
+  "RoA_GLOBAL_MENU_009": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ambush at Tarren Mill",
+    "deDE": "Hinterhalt bei Tarrens Mühle"
+  },
+  "RoA_GLOBAL_MENU_010": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Chapter Three",
+    "deDE": "Kapitel drei"
+  },
+  "RoA_GLOBAL_MENU_011": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Siege of Dalaran",
+    "deDE": "Die Belagerung von Dalaran"
+  },
+  "RoA_GLOBAL_MENU_012": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Chapter Four",
+    "deDE": "Kapitel vier"
+  },
+  "RoA_GLOBAL_UNITS_005": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Defender of Faith",
+    "deDE": "Verteidiger des Glaubens"
+  },
+  "RoA_GLOBAL_UNITS_013": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Regional Defender",
+    "deDE": "Örtlicher Verteidiger"
+  },
+  "RoA_GLOBAL_UNITS_014": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Guard Dog",
+    "deDE": "Wachhund"
+  },
+  "RoA_GLOBAL_UNITS_015": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Man at Arms",
+    "deDE": "Waffenknecht"
+  },
+  "RoA_GLOBAL_UNITS_016": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Train Man at Arms",
+    "deDE": "Waffenknecht ausbilden"
+  },
+  "RoA_GLOBAL_UNITS_021": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Scout",
+    "deDE": "Späher"
+  },
+  "RoA_GLOBAL_UNITS_023": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Dwarf",
+    "deDE": "Zwerg"
+  },
+  "RoA_GLOBAL_UNITS_024": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Bowman",
+    "deDE": "Bogenschütze"
+  },
+  "RoA_GLOBAL_UNITS_025": {
+    "type": "UNITS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Train Bowman",
+    "deDE": "Bogenschütze ausbilden"
+  },
+  "RoA_GLOBAL_UNITS_034": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Trooper",
+    "deDE": "Soldat"
+  },
+  "RoA_GLOBAL_UNITS_041": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Footmen",
+    "deDE": "Fußsoldaten"
+  },
+  "RoA_GLOBAL_UNITS_043": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Frigate",
+    "deDE": "Fregatte"
+  },
+  "RoA_GLOBAL_UNITS_044": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Battleship",
+    "deDE": "Schlachtschiff"
+  },
+  "RoA_GLOBAL_UNITS_045": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Battleship",
+    "deDE": "Schlachtschiff"
+  },
+  "RoA_GLOBAL_UNITS_046": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Battleship",
+    "deDE": "Schlachtschiff"
+  },
+  "RoA_GLOBAL_UNITS_047": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Battleship",
+    "deDE": "Schlachtschiff"
+  },
+  "RoA_GLOBAL_UNITS_048": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Battleship",
+    "deDE": "Schlachtschiff"
+  },
+  "RoA_GLOBAL_UNITS_049": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Battleship",
+    "deDE": "Schlachtschiff"
+  },
+  "RoA_GLOBAL_UNITS_050": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Battleship",
+    "deDE": "Schlachtschiff"
+  },
+  "RoA_GLOBAL_UNITS_051": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Elven Archer",
+    "deDE": "Elfischer Bogenschütze"
+  },
+  "RoA_GLOBAL_UNITS_052": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Train Elven Archer",
+    "deDE": "Elfischen Bogenschützen ausbilden"
+  },
+  "RoA_GLOBAL_UNITS_053": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sylvan Craftsman",
+    "deDE": "Elfischer Handwerker"
+  },
+  "RoA_GLOBAL_UNITS_055": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Train Sylvan Craftsman",
+    "deDE": "Elfischen Handwerker ausbilden"
+  },
+  "RoA_GLOBAL_UNITS_056": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Brute",
+    "deDE": "Rohling"
+  },
+  "RoA_GLOBAL_UNITS_057": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Brute",
+    "deDE": "Rohling"
+  },
+  "RoA_GLOBAL_UNITS_058": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Troll Axethrower",
+    "deDE": "Trollaxtwerfer"
+  },
+  "RoA_GLOBAL_UNITS_059": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Troll Axethrower",
+    "deDE": "Trollaxtwerfer"
+  },
+  "RoA_GLOBAL_UNITS_064": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Troll Berserker",
+    "deDE": "Trollberserker"
+  },
+  "RoA_GLOBAL_UNITS_065": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Troll Destroyer",
+    "deDE": "Trollzerstörer"
+  },
+  "RoA_GLOBAL_UNITS_066": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Troll Destroyer",
+    "deDE": "Trollzerstörer"
+  },
+  "RoA_GLOBAL_UNITS_067": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ogre",
+    "deDE": "Oger"
+  },
+  "RoA_GLOBAL_UNITS_069": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ogre",
+    "deDE": "Oger"
+  },
+  "RoA_GLOBAL_UNITS_073": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Goblin Sappers",
+    "deDE": "Goblin-Sappeure"
+  },
+  "RoA_GLOBAL_UNITS_074": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Goblin Sappers",
+    "deDE": "Goblin-Sappeure"
+  },
+  "RoA_GLOBAL_UNITS_075": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Death Knight",
+    "deDE": "Todesritter"
+  },
+  "RoA_GLOBAL_UNITS_076": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Death Knight",
+    "deDE": "Todesritter"
+  },
+  "RoA_GLOBAL_UNITS_082": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Undead",
+    "deDE": "Untoter"
+  },
+  "RoA_GLOBAL_UNITS_083": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Undead",
+    "deDE": "Untoter"
+  },
+  "RoA_GLOBAL_UNITS_084": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Dragon",
+    "deDE": "Drache"
+  },
+  "RoA_GLOBAL_UNITS_085": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Kor'kron Guard",
+    "deDE": "Kor'kron-Wache"
+  },
+  "RoA_GLOBAL_UNITS_086": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Catapult",
+    "deDE": "Katapult"
+  },
+  "RoA_GLOBAL_UNITS_087": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Catapult",
+    "deDE": "Katapult"
+  },
+  "RoA_GLOBAL_UNITS_088": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Catapult",
+    "deDE": "Katapult"
+  },
+  "RoA_GLOBAL_UNITS_089": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Goblin Zeppelin",
+    "deDE": "Goblin-Zeppelin"
+  },
+  "RoA_GLOBAL_UNITS_090": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Goblin Alchemist",
+    "deDE": "Goblin-Alchemist"
+  },
+  "RoA_GLOBAL_UNITS_091": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Bonecrusher",
+    "deDE": "Knochenbrecher"
+  }
+}

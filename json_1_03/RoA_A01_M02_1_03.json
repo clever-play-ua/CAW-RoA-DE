@@ -1,0 +1,919 @@
+{
+  "RoA_A01_M02_MESS_001": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff8080ffNEW HERO|r\nDanath - captain of Anduin Lothar and nephew of the king Thoras Trollbane. Excellent warrior that can bash enemies with his shield and boost friendly units attack rate with his shouts.",
+    "deDE": "|cff8080ffNEUER HELD|r\nDanath – Hauptmann unter Anduin Lothar und Neffe von König Thoras Trollbann. Ein hervorragender Krieger, der Feinde mit seinem Schild niederschmettern und mit seinen Schlachtrufen die Angriffsgeschwindigkeit verbündeter Einheiten erhöhen kann."
+  },
+  "RoA_A01_M02_MESS_002": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff8080ffNEW SEMI HERO|r\nGavinrad - is one of the Azerothien veterans, who became the paladin of the Silver Hand order. Able to restore friendly units health with \"Healing Word\" and boost their melee attack with \"Vengeance Aura\".",
+    "deDE": "|cff8080ffNEUER HALBHELD|r\nGavinrad – einer der Veteranen aus Azeroth, der zum Paladin des Ordens der Silbernen Hand wurde. Er kann mit „Heilendes Wort“ die Gesundheit verbündeter Einheiten wiederherstellen und mit der „Aura der Vergeltung“ ihre Nahkampfangriffe verstärken."
+  },
+  "RoA_A01_M02_OBJE_001": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Help the Villagers",
+    "deDE": "Helft den Dorfbewohnern"
+  },
+  "RoA_A01_M02_OBJE_002": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Southshore’s surviving citizens are still in danger. You must clear the nearby villages of orcish raiders to ensure their safety.",
+    "deDE": "Die überlebenden Bürger von Süderstade sind noch immer in Gefahr. Ihr müsst die umliegenden Dörfer von orcischen Plünderern befreien, um ihre Sicherheit zu gewährleisten."
+  },
+  "RoA_A01_M02_OBJE_003": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nHelp the Villagers\n - Retake 7 Farms\n - Danath must survive",
+    "deDE": "|cffffcc00HAUPTQUEST|r\nHelft den Dorfbewohnern\n - Erobert 7 Bauernhöfe zurück\n - Danath muss überleben"
+  },
+  "RoA_A01_M02_OBJE_004": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nHelp the Villagers",
+    "deDE": "|cffffcc00HAUPTQUEST ABGESCHLOSSEN|r\nHelft den Dorfbewohnern"
+  },
+  "RoA_A01_M02_OBJE_005": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms",
+    "deDE": "Erobert 7 Bauernhöfe zurück"
+  },
+  "RoA_A01_M02_OBJE_006": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Danath must survive",
+    "deDE": "Danath muss überleben"
+  },
+  "RoA_A01_M02_OBJE_007": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (0 / 7)",
+    "deDE": "Erobert 7 Bauernhöfe zurück (0 / 7)"
+  },
+  "RoA_A01_M02_OBJE_008": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (1 / 7)",
+    "deDE": "Erobert 7 Bauernhöfe zurück (1 / 7)"
+  },
+  "RoA_A01_M02_OBJE_009": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (2 / 7)",
+    "deDE": "Erobert 7 Bauernhöfe zurück (2 / 7)"
+  },
+  "RoA_A01_M02_OBJE_010": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (3 / 7)",
+    "deDE": "Erobert 7 Bauernhöfe zurück (3 / 7)"
+  },
+  "RoA_A01_M02_OBJE_011": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (4 / 7)",
+    "deDE": "Erobert 7 Bauernhöfe zurück (4 / 7)"
+  },
+  "RoA_A01_M02_OBJE_012": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (5 / 7)",
+    "deDE": "Erobert 7 Bauernhöfe zurück (5 / 7)"
+  },
+  "RoA_A01_M02_OBJE_013": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (6 / 7)",
+    "deDE": "Erobert 7 Bauernhöfe zurück (6 / 7)"
+  },
+  "RoA_A01_M02_OBJE_014": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nHelp the Villagers\n - |cffff0000Danath must Survive (Failed)|r",
+    "deDE": "|cffffcc00HAUPTQUEST FEHLGESCHLAGEN|r\nHelft den Dorfbewohnern\n - |cffff0000Danath muss überleben (fehlgeschlagen)|r"
+  },
+  "RoA_A01_M02_OBJE_015": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Southshore",
+    "deDE": "Süderstade"
+  },
+  "RoA_A01_M02_OBJE_016": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "The town lies in ruins after the orcish onslaught. Restore it to serve as a stronghold for Anduin Lothar’s army, and prepare the land for the coming battles.",
+    "deDE": "Die Stadt liegt nach dem orcischen Ansturm in Trümmern. Baut sie wieder auf, damit sie Anduin Lothars Armee als Bollwerk dienen kann, und bereitet das Land auf die kommenden Schlachten vor."
+  },
+  "RoA_A01_M02_OBJE_017": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nSouthshore\n - Repair Town Hall\n - Repair Barracks",
+    "deDE": "|cffffcc00HAUPTQUEST|r\nSüderstade\n - Repariert das Rathaus\n - Repariert die Kaserne"
+  },
+  "RoA_A01_M02_OBJE_018": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nSouthshore",
+    "deDE": "|cffffcc00HAUPTQUEST ABGESCHLOSSEN|r\nSüderstade"
+  },
+  "RoA_A01_M02_OBJE_019": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nSouthshore\n - |cff808080Repair Town Hall (Completed)|r\n - Repair Barracks",
+    "deDE": "|cffffcc00HAUPTQUEST AKTUALISIERT|r\nSüderstade\n - |cff808080Repariert das Rathaus (abgeschlossen)|r\n - Repariert die Kaserne"
+  },
+  "RoA_A01_M02_OBJE_020": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nSouthshore\n - Repair Town Hall\n - |cff808080Repair Barracks (Completed)|r",
+    "deDE": "|cffffcc00HAUPTQUEST AKTUALISIERT|r\nSüderstade\n - Repariert das Rathaus\n - |cff808080Repariert die Kaserne (abgeschlossen)|r"
+  },
+  "RoA_A01_M02_OBJE_021": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Repair Town Hall",
+    "deDE": "Repariert das Rathaus"
+  },
+  "RoA_A01_M02_OBJE_022": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Repair Barracks",
+    "deDE": "Repariert die Kaserne"
+  },
+  "RoA_A01_M02_OBJE_023": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Reinforce the Navy",
+    "deDE": "Verstärkt die Flotte"
+  },
+  "RoA_A01_M02_OBJE_024": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "The elves’ brethren remain in enemy hands, and only a stronger fleet can bring them to safety. Expand your navy and prepare to strike across the waters.",
+    "deDE": "Die Brüder der Elfen befinden sich noch immer in Feindeshand, und nur eine stärkere Flotte kann sie in Sicherheit bringen. Baut Eure Flotte aus und bereitet Euch auf einen Schlag über das Wasser vor."
+  },
+  "RoA_A01_M02_OBJE_025": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Build Lumber Mill",
+    "deDE": "Errichtet ein Sägewerk"
+  },
+  "RoA_A01_M02_OBJE_026": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Build Shipyard",
+    "deDE": "Errichtet eine Werft"
+  },
+  "RoA_A01_M02_OBJE_027": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Build Oil Rig",
+    "deDE": "Errichtet eine Bohrinsel"
+  },
+  "RoA_A01_M02_OBJE_028": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy orc shipyard",
+    "deDE": "Zerstört die orcische Werft"
+  },
+  "RoA_A01_M02_OBJE_029": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy enemy ships",
+    "deDE": "Zerstört die feindlichen Schiffe"
+  },
+  "RoA_A01_M02_OBJE_030": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nReinforce the Navy\n - Build Lumber Mill\n - Build Shipyard\n - Build Oil Rig\n - Destroy orc shipyard\n - Destroy enemy ships",
+    "deDE": "|cffffcc00HAUPTQUEST|r\nVerstärkt die Flotte\n - Errichtet ein Sägewerk\n - Errichtet eine Werft\n - Errichtet eine Bohrinsel\n - Zerstört die orcische Werft\n - Zerstört die feindlichen Schiffe"
+  },
+  "RoA_A01_M02_OBJE_031": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nReinforce the Navy",
+    "deDE": "|cffffcc00HAUPTQUEST ABGESCHLOSSEN|r\nVerstärkt die Flotte"
+  },
+  "RoA_A01_M02_OBJE_032": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nReinforce the Navy\n - |cff808080Build Shipyard (Completed)|r",
+    "deDE": "|cffffcc00HAUPTQUEST AKTUALISIERT|r\nVerstärkt die Flotte\n - |cff808080Errichtet eine Werft (abgeschlossen)|r"
+  },
+  "RoA_A01_M02_OBJE_033": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nReinforce the Navy\n - |cff808080Build Lumber Mill (Completed)|r",
+    "deDE": "|cffffcc00HAUPTQUEST AKTUALISIERT|r\nVerstärkt die Flotte\n - |cff808080Errichtet ein Sägewerk (abgeschlossen)|r"
+  },
+  "RoA_A01_M02_OBJE_034": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nReinforce the Navy\n - |cff808080Build Oil Rig (Completed)|r",
+    "deDE": "|cffffcc00HAUPTQUEST AKTUALISIERT|r\nVerstärkt die Flotte\n - |cff808080Errichtet eine Bohrinsel (abgeschlossen)|r"
+  },
+  "RoA_A01_M02_OBJE_035": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nReinforce the Navy\n - |cff808080Destroy enemy ships (Completed)|r",
+    "deDE": "|cffffcc00HAUPTQUEST AKTUALISIERT|r\nVerstärkt die Flotte\n - |cff808080Zerstört die feindlichen Schiffe (abgeschlossen)|r"
+  },
+  "RoA_A01_M02_OBJE_036": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nReinforce the Navy\n - |cff808080Destroy orc shipyard (Completed)|r",
+    "deDE": "|cffffcc00HAUPTQUEST AKTUALISIERT|r\nVerstärkt die Flotte\n - |cff808080Zerstört die orcische Werft (abgeschlossen)|r"
+  },
+  "RoA_A01_M02_OBJE_037": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Dangerous River",
+    "deDE": "Gefährlicher Fluss"
+  },
+  "RoA_A01_M02_OBJE_038": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Sail north toward Tarren Mill, but beware! The river may be patrolled by the Horde navy. Proceed with caution and keep your fleet ready for battle.",
+    "deDE": "Segelt nach Norden in Richtung Tarrens Mühle, doch seid gewarnt! Der Fluss könnte von der Flotte der Horde bewacht werden. Geht mit Vorsicht vor und haltet Eure Flotte kampfbereit."
+  },
+  "RoA_A01_M02_OBJE_039": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Reach the circle of Power.",
+    "deDE": "Erreicht den Kreis der Macht."
+  },
+  "RoA_A01_M02_OBJE_040": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "At least 1 ship must survive.",
+    "deDE": "Mindestens 1 Schiff muss überleben."
+  },
+  "RoA_A01_M02_OBJE_041": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nDangerous River\n - Reach the circle of Power\n - At least 1 ship must survive",
+    "deDE": "|cffffcc00HAUPTQUEST|r\nGefährlicher Fluss\n - Erreicht den Kreis der Macht\n - Mindestens 1 Schiff muss überleben"
+  },
+  "RoA_A01_M02_OBJE_042": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nDangerous River",
+    "deDE": "|cffffcc00HAUPTQUEST ABGESCHLOSSEN|r\nGefährlicher Fluss"
+  },
+  "RoA_A01_M02_OBJE_043": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nDangerous River\n - |cffff0000At least 1 ship should survive (Failed)|r",
+    "deDE": "|cffffcc00HAUPTQUEST FEHLGESCHLAGEN|r\nGefährlicher Fluss\n - |cffff0000Mindestens 1 Schiff muss überleben (fehlgeschlagen)|r"
+  },
+  "RoA_A01_M02_OBJE_044": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Elven Allies",
+    "deDE": "Elfische Verbündete"
+  },
+  "RoA_A01_M02_OBJE_045": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Elven captives are held in a camp at Tarren Mill. Break their chains and bring them to safety, their aid will be invaluable in the battles to come.",
+    "deDE": "Elfische Gefangene werden in einem Lager bei Tarrens Mühle festgehalten. Sprengt ihre Ketten und bringt sie in Sicherheit, ihre Hilfe wird in den kommenden Schlachten von unschätzbarem Wert sein."
+  },
+  "RoA_A01_M02_OBJE_046": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Kill all Prison camp Guards",
+    "deDE": "Tötet alle Wachen des Gefangenenlagers"
+  },
+  "RoA_A01_M02_OBJE_047": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Danath must Survive.",
+    "deDE": "Danath muss überleben."
+  },
+  "RoA_A01_M02_OBJE_048": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nElven Allies\n - Kill all Prison camp Guards\n - Danath must Survive",
+    "deDE": "|cffffcc00HAUPTQUEST|r\nElfische Verbündete\n - Tötet alle Wachen des Gefangenenlagers\n - Danath muss überleben"
+  },
+  "RoA_A01_M02_OBJE_049": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nElven Allies",
+    "deDE": "|cffffcc00HAUPTQUEST ABGESCHLOSSEN|r\nElfische Verbündete"
+  },
+  "RoA_A01_M02_OBJE_050": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nElven Allies\n - |cffff0000Danath must Survive (Failed)|r",
+    "deDE": "|cffffcc00HAUPTQUEST FEHLGESCHLAGEN|r\nElfische Verbündete\n - |cffff0000Danath muss überleben (fehlgeschlagen)|r"
+  },
+  "RoA_A01_M02_OBJE_051": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nElven Allies\n - Enter the Circle of Power and free Milan the Scribe",
+    "deDE": "|cffffcc00HAUPTQUEST AKTUALISIERT|r\nElfische Verbündete\n - Betretet den Kreis der Macht und befreit Milan den Schreiber"
+  },
+  "RoA_A01_M02_OBJE_052": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Enter the Circle of Power and free Milan the Scribe.",
+    "deDE": "Betretet den Kreis der Macht und befreit Milan den Schreiber."
+  },
+  "RoA_A01_M02_OBJE_053": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MISSION FAILED|r",
+    "deDE": "|cffffcc00MISSION FEHLGESCHLAGEN|r"
+  },
+  "RoA_A01_M02_OBJE_054": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Prison Camps",
+    "deDE": "Gefangenenlager"
+  },
+  "RoA_A01_M02_OBJE_055": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Local villagers who survived the orcish assault have been imprisoned for slave labor. Free them from their chains, and they will join your cause.",
+    "deDE": "Dorfbewohner, die den orcischen Angriff überlebt haben, wurden zur Sklavenarbeit eingesperrt. Befreit sie von ihren Ketten, und sie werden sich Eurer Sache anschließen."
+  },
+  "RoA_A01_M02_OBJE_056": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Free 4 prisoners (0/4 freed)",
+    "deDE": "Befreit 4 Gefangene (0/4 befreit)"
+  },
+  "RoA_A01_M02_OBJE_057": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST|r\nPrison Camps\n - Free 4 prisoners",
+    "deDE": "|cffffcc00OPTIONALE QUEST|r\nGefangenenlager\n - Befreit 4 Gefangene"
+  },
+  "RoA_A01_M02_OBJE_058": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nPrison Camps",
+    "deDE": "|cffffcc00OPTIONALE QUEST ABGESCHLOSSEN|r\nGefangenenlager"
+  },
+  "RoA_A01_M02_OBJE_059": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Free 4 prisoners",
+    "deDE": "Befreit 4 Gefangene"
+  },
+  "RoA_A01_M02_OBJE_060": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Free 4 prisoners (3/4 freed)",
+    "deDE": "Befreit 4 Gefangene (3/4 befreit)"
+  },
+  "RoA_A01_M02_OBJE_061": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Free 4 prisoners (2/4 freed)",
+    "deDE": "Befreit 4 Gefangene (2/4 befreit)"
+  },
+  "RoA_A01_M02_OBJE_062": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Free 4 prisoners (1/4 freed)",
+    "deDE": "Befreit 4 Gefangene (1/4 befreit)"
+  },
+  "RoA_A01_M02_SCRN_001": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Quest Objectives",
+    "deDE": "Questziele"
+  },
+  "RoA_A01_M02_SCRN_002": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Farms left to retake:",
+    "deDE": "Noch zurückzuerobernde Bauernhöfe:"
+  },
+  "RoA_A01_M02_SCRN_003": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Troll Destroyers left:",
+    "deDE": "Verbleibende Trollzerstörer:"
+  },
+  "RoA_A01_M02_SCRN_004": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nElven Lumber Mill - The Elves offered their superior skills in service to the Alliance, providing more efficient means for processing lumber.",
+    "deDE": "|cffffcc00TECHNOLOGIEBAUM FREIGESCHALTET|r\nElfisches Sägewerk – Die Elfen stellten ihr überlegenes Können in den Dienst der Allianz und ermöglichen eine effizientere Holzverarbeitung."
+  },
+  "RoA_A01_M02_SCRN_005": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nElven Archers -  descendants of the elder race of Highbornes, these sylvan woodsmen are unmatched in their use of the bow.",
+    "deDE": "|cffffcc00TECHNOLOGIEBAUM FREIGESCHALTET|r\nElfische Bogenschützen – Nachfahren des alten Volkes der Hochgeborenen. Diese Waldläufer sind im Umgang mit dem Bogen unübertroffen."
+  },
+  "RoA_A01_M02_SCRN_006": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nShipyards are primarily responsible for constructing various warships within the Alliance's naval forces. They also serve as depots for harvested oil.",
+    "deDE": "|cffffcc00TECHNOLOGIEBAUM FREIGESCHALTET|r\nWerften sind vor allem für den Bau der verschiedenen Kriegsschiffe der Seestreitkräfte der Allianz zuständig. Sie dienen außerdem als Lager für gefördertes Öl."
+  },
+  "RoA_A01_M02_SCRN_007": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nElven Destroyers are powerful warships from the fleets of Quel'thalas. Crewed with highly-skilled Elven seafarers, these swift-sailing vessels are prepared to engage the enemy wherever they may be found.",
+    "deDE": "|cffffcc00TECHNOLOGIEBAUM FREIGESCHALTET|r\nElfische Zerstörer sind mächtige Kriegsschiffe aus den Flotten von Quel'Thalas. Mit hochqualifizierten elfischen Seeleuten bemannt, sind diese schnellen Schiffe bereit, den Feind zu stellen, wo immer er sich zeigt."
+  },
+  "RoA_A01_M02_SCRN_008": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Prisoners left:",
+    "deDE": "Verbleibende Gefangene:"
+  },
+  "RoA_A01_M02_SCRN_009": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Nation of Alterac",
+    "deDE": "Nation Alterac"
+  },
+  "RoA_A01_M02_SCRN_010": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Blackrock Clan",
+    "deDE": "Schwarzfelsklan"
+  },
+  "RoA_A01_M02_SCRN_011": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Nation of Lordaeron",
+    "deDE": "Nation Lordaeron"
+  },
+  "RoA_A01_M02_SCRN_012": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Nation of Stromgarde",
+    "deDE": "Nation Stromgarde"
+  },
+  "RoA_A01_M02_SCRN_013": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Rangers of Quel’Thalas",
+    "deDE": "Waldläufer von Quel'Thalas"
+  },
+  "RoA_A01_M02_SCRN_014": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Horde",
+    "deDE": "Horde"
+  },
+  "RoA_A01_M02_SCRN_015": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Alliance",
+    "deDE": "Allianz"
+  },
+  "RoA_A01_M02_SCRN_016": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Captain of Blackrock Clan",
+    "deDE": "Hauptmann des Schwarzfelsklans"
+  },
+  "RoA_A01_M02_VO_S001_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "The Horde was here… everywhere these bastards go, they spread death and destruction… I should’ve been in Stromgarde when they laid siege to it…and my father would’ve...",
+    "deDE": "Die Horde war hier… Überall, wo diese Bastarde hinkommen, säen sie Tod und Zerstörung… Ich hätte in Stromgarde sein sollen, als sie es belagerten… und mein Vater hätte..."
+  },
+  "RoA_A01_M02_VO_S001_002": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "Captain, we need to search for supplies, our men are running low on food and water.",
+    "deDE": "Hauptmann, wir müssen nach Vorräten suchen, unseren Männern gehen Nahrung und Wasser aus."
+  },
+  "RoA_A01_M02_VO_S001_003": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Let's check this cellar, maybe there is something.",
+    "deDE": "Sehen wir uns diesen Keller an, vielleicht ist dort etwas."
+  },
+  "RoA_A01_M02_VO_S001_004": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "Captain Danath, we have survivors!",
+    "deDE": "Hauptmann Danath, wir haben Überlebende!"
+  },
+  "RoA_A01_M02_VO_S001_005": {
+    "type": "VO",
+    "unit_id": "NTP",
+    "unit_name": "Nobbel the Pious",
+    "enUS": "Greetings! We’ve been hiding here from those greenskinned beasts. They plundered Southshore and have settled in ravaged villages nearby.",
+    "deDE": "Seid gegrüßt! Wir haben uns hier vor diesen grünhäutigen Bestien versteckt. Sie haben Süderstade geplündert und sich in den verwüsteten Dörfern in der Nähe niedergelassen."
+  },
+  "RoA_A01_M02_VO_S001_006": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "That’s what savage mongrels do. Men, let’s pay them a visit!",
+    "deDE": "So machen es wilde Bastarde nun mal. Männer, statten wir ihnen einen Besuch ab!"
+  },
+  "RoA_A01_M02_VO_S002_001": {
+    "type": "VO",
+    "unit_id": "SYS",
+    "unit_name": "Storyline text",
+    "enUS": "I can write a tale about you.",
+    "deDE": "Ich kann eine Geschichte über Euch schreiben."
+  },
+  "RoA_A01_M02_VO_S002_002": {
+    "type": "VO",
+    "unit_id": "SYS",
+    "unit_name": "Storyline text",
+    "enUS": "No one ever listens…",
+    "deDE": "Niemand hört je zu…"
+  },
+  "RoA_A01_M02_VO_S002_003": {
+    "type": "VO",
+    "unit_id": "SYS",
+    "unit_name": "Storyline text",
+    "enUS": "Stay a while and listen.",
+    "deDE": "Bleibt eine Weile und hört zu."
+  },
+  "RoA_A01_M02_VO_S003_001": {
+    "type": "VO",
+    "unit_id": "DRO",
+    "unit_name": "Drunk Orc",
+    "enUS": "Humanz… ehk, Kill them!",
+    "deDE": "Menschenz… hicks, tötet sie!"
+  },
+  "RoA_A01_M02_VO_S003_002": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Filthy creature, my sword will sober you up!",
+    "deDE": "Dreckige Kreatur, mein Schwert wird dich schon nüchtern machen!"
+  },
+  "RoA_A01_M02_VO_S004_001": {
+    "type": "VO",
+    "unit_id": "PEO",
+    "unit_name": "Peon",
+    "enUS": "Please! No hurt!",
+    "deDE": "Bitte! Nicht wehtun!"
+  },
+  "RoA_A01_M02_VO_S005_001": {
+    "type": "VO",
+    "unit_id": "DRO",
+    "unit_name": "Drunk Orc",
+    "enUS": "The humans are attacking! Kill them!",
+    "deDE": "Die Menschen greifen an! Tötet sie!"
+  },
+  "RoA_A01_M02_VO_S005_002": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "I’ll never get tired of killing this scum!",
+    "deDE": "Ich werde es nie leid, diesen Abschaum zu erschlagen!"
+  },
+  "RoA_A01_M02_VO_S006_001": {
+    "type": "VO",
+    "unit_id": "PEO",
+    "unit_name": "Peon",
+    "enUS": "Hey! Quit disturbing me, me need wipe wipe!",
+    "deDE": "He! Nicht stören, ich muss abwischen!"
+  },
+  "RoA_A01_M02_VO_S006_002": {
+    "type": "VO",
+    "unit_id": "PEO",
+    "unit_name": "Peon",
+    "enUS": "Zug zug zug, Argh! Hey! Ow, me need alone time!",
+    "deDE": "Zug zug zug, Argh! He! Au, ich brauch meine Ruhe!"
+  },
+  "RoA_A01_M02_VO_S007_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "The orcs will bother you no more, old man. We have secured a perimeter around Southshore.",
+    "deDE": "Die Orcs werden Euch nicht mehr belästigen, alter Mann. Wir haben das Gebiet um Süderstade gesichert."
+  },
+  "RoA_A01_M02_VO_S007_002": {
+    "type": "VO",
+    "unit_id": "NTP",
+    "unit_name": "Nobbel the Pious",
+    "enUS": "Thank you, brave commander. Please stay a while and get some rest. We have some food and supplies that we can share with your soldiers.",
+    "deDE": "Habt Dank, tapferer Kommandant. Bitte bleibt eine Weile und ruht Euch aus. Wir haben etwas Nahrung und Vorräte, die wir mit Euren Soldaten teilen können."
+  },
+  "RoA_A01_M02_VO_S007_003": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "I have a better idea. Give us a couple of strong workers and we will rebuild the town hall together. This town can be a perfect base for the Alliance army that is marching in this direction.",
+    "deDE": "Ich habe eine bessere Idee. Gebt uns ein paar kräftige Arbeiter, und wir bauen gemeinsam das Rathaus wieder auf. Diese Stadt kann ein perfekter Stützpunkt für die Armee der Allianz sein, die in diese Richtung marschiert."
+  },
+  "RoA_A01_M02_VO_S007_004": {
+    "type": "VO",
+    "unit_id": "NTP",
+    "unit_name": "Nobbel the Pious",
+    "enUS": "Very well, everything you need, sir.",
+    "deDE": "Sehr wohl, alles, was Ihr braucht, Herr."
+  },
+  "RoA_A01_M02_VO_S008_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Well, well, the mysterious elves of Silvermoon. What a surprise to see you here…",
+    "deDE": "Sieh an, sieh an, die geheimnisvollen Elfen aus Silbermond. Welch eine Überraschung, Euch hier zu sehen…"
+  },
+  "RoA_A01_M02_VO_S008_002": {
+    "type": "VO",
+    "unit_id": "ECA",
+    "unit_name": "Elven Captain",
+    "enUS": "Greetings, human. We were sent here to rescue a contingent of archers headed to Dalaran. Our spies report that shortly after passing through the Alterac grasslands, they were ambushed by Horde troops. We believe that they are now held in a small prison camp near the northwest region of Tarren Mill.",
+    "deDE": "Seid gegrüßt, Mensch. Wir wurden hierher geschickt, um eine Abteilung Bogenschützen zu retten, die auf dem Weg nach Dalaran war. Unsere Späher berichten, dass sie kurz nach dem Durchqueren des Graslands von Alterac von Truppen der Horde überfallen wurden. Wir glauben, dass sie nun in einem kleinen Gefangenenlager im Nordwesten von Tarrens Mühle festgehalten werden."
+  },
+  "RoA_A01_M02_VO_S008_003": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "To reach Tarren Mill, you have to sail up the Darrowmere River, yet you landed here.",
+    "deDE": "Um Tarrens Mühle zu erreichen, müsstet Ihr den Darrowmere hinaufsegeln, und doch seid Ihr hier gelandet."
+  },
+  "RoA_A01_M02_VO_S008_004": {
+    "type": "VO",
+    "unit_id": "",
+    "unit_name": "Elven Captain",
+    "enUS": "That was our destination, but troll destroyers are guarding the river mouth. We can’t defeat those without reinforcements.",
+    "deDE": "Das war unser Ziel, doch Trollzerstörer bewachen die Flussmündung. Ohne Verstärkung können wir sie nicht besiegen."
+  },
+  "RoA_A01_M02_VO_S008_005": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Trolls…I see. I can help you, but on one condition, elf.",
+    "deDE": "Trolle… verstehe. Ich kann Euch helfen, aber unter einer Bedingung, Elf."
+  },
+  "RoA_A01_M02_VO_S008_006": {
+    "type": "VO",
+    "unit_id": "",
+    "unit_name": "Elven Captain",
+    "enUS": "I’m listening.",
+    "deDE": "Ich höre."
+  },
+  "RoA_A01_M02_VO_S008_007": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "I will be the man in charge of this operation.",
+    "deDE": "Ich werde diese Operation befehligen."
+  },
+  "RoA_A01_M02_VO_S008_008": {
+    "type": "VO",
+    "unit_id": "ECA",
+    "unit_name": "Elven Captain",
+    "enUS": "Very well. Our sylvan craftsman will build an elven lumber mill. With it, we can build more ships quickly.",
+    "deDE": "Nun gut. Unsere elfischen Handwerker werden ein elfisches Sägewerk errichten. Damit können wir schnell weitere Schiffe bauen."
+  },
+  "RoA_A01_M02_VO_S009_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "These rivers used to bring commerce throughout the kingdoms, now they’re polluted with the stench of beasts and savages.",
+    "deDE": "Einst brachten diese Flüsse den Handel durch die Königreiche, jetzt sind sie verpestet vom Gestank von Bestien und Wilden."
+  },
+  "RoA_A01_M02_VO_S009_002": {
+    "type": "VO",
+    "unit_id": "ECA",
+    "unit_name": "Elven Captain",
+    "enUS": "I couldn’t agree more, our forward scouts have warned us of many orcish watch posts looming on both sides of the river, and the troll destroyers are ever vigilant.",
+    "deDE": "Ich könnte Euch nicht mehr zustimmen. Unsere vorausgeschickten Späher haben uns vor zahlreichen orcischen Wachposten auf beiden Seiten des Flusses gewarnt, und die Trollzerstörer sind stets wachsam."
+  },
+  "RoA_A01_M02_VO_S009_003": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "I hope you elves are as good battling on the sea as you are with magic, otherwise, I may have delivered me and my men an early death.",
+    "deDE": "Ich hoffe, Ihr Elfen kämpft auf dem Meer so gut wie mit Magie, sonst habe ich mich und meine Männer in einen frühen Tod geführt."
+  },
+  "RoA_A01_M02_VO_S009_004": {
+    "type": "VO",
+    "unit_id": "ECA",
+    "unit_name": "Elven Captain",
+    "enUS": "Ha! Fear not, human, you will not die on my watch. Not today.",
+    "deDE": "Ha! Keine Sorge, Mensch, unter meiner Wacht werdet Ihr nicht sterben. Nicht heute."
+  },
+  "RoA_A01_M02_VO_S010_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Kul'tiran ships… They were destroyed by the dragons when Admiral Proudmoore tried to retake Southshore…",
+    "deDE": "Schiffe aus Kul Tiras… Sie wurden von den Drachen zerstört, als Admiral Prachtmeer versuchte, Süderstade zurückzuerobern…"
+  },
+  "RoA_A01_M02_VO_S011_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "We are approaching Tarren Mill. Careful now, I bet the orcs there are much better prepared than the ones we saw in Southshore.",
+    "deDE": "Wir nähern uns Tarrens Mühle. Vorsicht jetzt, ich wette, die Orcs dort sind viel besser vorbereitet als die in Süderstade."
+  },
+  "RoA_A01_M02_VO_S011_002": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "We have learned there are more survivors held captive in the woods around Tarren Mill. The orcs are using them as forced labor.",
+    "deDE": "Wir haben erfahren, dass in den Wäldern um Tarrens Mühle weitere Überlebende gefangen gehalten werden. Die Orcs zwingen sie zur Zwangsarbeit."
+  },
+  "RoA_A01_M02_VO_S011_003": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Then we must help them. These poor fellows must have endured too much. Once we get there, you’ll see to it.",
+    "deDE": "Dann müssen wir ihnen helfen. Diese armen Kerle haben sicher zu viel ertragen. Sobald wir dort sind, kümmerst du dich darum."
+  },
+  "RoA_A01_M02_VO_S011_004": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "Yes, captain.",
+    "deDE": "Jawohl, Hauptmann."
+  },
+  "RoA_A01_M02_VO_S012_001": {
+    "type": "VO",
+    "unit_id": "PRI",
+    "unit_name": "Prisoner",
+    "enUS": "Damn the orcs!",
+    "deDE": "Verdammt seien die Orcs!"
+  },
+  "RoA_A01_M02_VO_S012_002": {
+    "type": "VO",
+    "unit_id": "RDE",
+    "unit_name": "Regional Defender",
+    "enUS": "My sword is yours!",
+    "deDE": "Mein Schwert gehört Euch!"
+  },
+  "RoA_A01_M02_VO_S012_003": {
+    "type": "VO",
+    "unit_id": "PRI",
+    "unit_name": "Prisoner",
+    "enUS": "Help us!",
+    "deDE": "Helft uns!"
+  },
+  "RoA_A01_M02_VO_S012_004": {
+    "type": "VO",
+    "unit_id": "PRI",
+    "unit_name": "Prisoner",
+    "enUS": "These wretched orcs are forcing us to work day and night!",
+    "deDE": "Diese elenden Orcs zwingen uns, Tag und Nacht zu schuften!"
+  },
+  "RoA_A01_M02_VO_S012_005": {
+    "type": "VO",
+    "unit_id": "PRI",
+    "unit_name": "Prisoner",
+    "enUS": "Thank you, sire!",
+    "deDE": "Habt Dank, Herr!"
+  },
+  "RoA_A01_M02_VO_S012_006": {
+    "type": "VO",
+    "unit_id": "PRI",
+    "unit_name": "Prisoner",
+    "enUS": "Time to repay those blasted orcs in kind!",
+    "deDE": "Zeit, es diesen verfluchten Orcs heimzuzahlen!"
+  },
+  "RoA_A01_M02_VO_S012_007": {
+    "type": "VO",
+    "unit_id": "RDE",
+    "unit_name": "Regional Defender",
+    "enUS": "Wretched orcs, now they’ll see.",
+    "deDE": "Elende Orcs, jetzt werden sie sehen."
+  },
+  "RoA_A01_M02_VO_S012_008": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "The prisoners have been freed. Now, onto Tarren Mill!",
+    "deDE": "Die Gefangenen sind befreit. Und jetzt auf nach Tarrens Mühle!"
+  },
+  "RoA_A01_M02_VO_S013_001": {
+    "type": "VO",
+    "unit_id": "OCA",
+    "unit_name": "Orc Captain",
+    "enUS": "Hah! As expected, the elven stench has attracted the human insects! Kill them all warriors!",
+    "deDE": "Hah! Wie erwartet hat der elfische Gestank die menschlichen Insekten angelockt! Tötet sie alle, Krieger!"
+  },
+  "RoA_A01_M02_VO_S013_002": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "I don’t think so!",
+    "deDE": "Das glaube ich kaum!"
+  },
+  "RoA_A01_M02_VO_S014_001": {
+    "type": "VO",
+    "unit_id": "MTS",
+    "unit_name": "Milan the Scribe",
+    "enUS": "Thank you, sir. We were heading to Dalaran, to help the Kirin Tor battle the Horde, but we got captured instead.",
+    "deDE": "Habt Dank, Herr. Wir waren auf dem Weg nach Dalaran, um den Kirin Tor im Kampf gegen die Horde zu helfen, doch stattdessen wurden wir gefangen genommen."
+  },
+  "RoA_A01_M02_VO_S014_002": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Haha, you should bring better scouts next time, elf. Lucky you, you’re in good company now.",
+    "deDE": "Haha, nächstes Mal solltet Ihr bessere Späher mitbringen, Elf. Zu Eurem Glück seid Ihr jetzt in guter Gesellschaft."
+  },
+  "RoA_A01_M02_VO_S014_003": {
+    "type": "VO",
+    "unit_id": "MTS",
+    "unit_name": "Milan the Scribe",
+    "enUS": "What's that?",
+    "deDE": "Was ist das?"
+  },
+  "RoA_A01_M02_VO_S014_004": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "That is the sound of hope.",
+    "deDE": "Das ist der Klang der Hoffnung."
+  }
+}
